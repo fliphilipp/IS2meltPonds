@@ -99,4 +99,4 @@ newPosition = [0.35 0.48 0.3 0.04];
 newUnits = 'normalized';
 set(hL,'Position', newPosition,'Units', newUnits, 'NumColumns', 5);
 
-% export_fig fig/pondDepthComparison.png -m2 -transparent
+export_fig fig/pondDepthComparison.png -m2 -transparent
